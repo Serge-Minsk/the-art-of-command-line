@@ -1,0 +1,9 @@
+debug: true
+output: cmd_script.log
+error: cmd_script_errors.log
+commands:
+  help : Display help command
+  uptime: Display machine uptime
+  date: Display current date
+  echo: Display first passed argument
+  ping: Ping given server
